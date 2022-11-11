@@ -1,0 +1,5 @@
+Student name: Andrii Kernytkyi
+Student number: 707000
+Student class: IT 1D
+URL student GitHub website: https://iandyi.github.io/
+URL student GitHub repository: https://github.com/IANDYI/IANDYI.github.io/
